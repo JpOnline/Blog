@@ -33,7 +33,7 @@ Take the sentence "It's raining in the city.", a simple definition of "rain" cou
 All we do when designing software is to manage complexity. And creating proper abstractions is the only way to decrease complexity by hiding irrelevant details.
 The ultimate language that the computer "understands" is binary, but this one is too complex, it's hard to write and hard to read, we use languages different than binary for the benefit of human, so we can communicate among ourselves while the computer keep understanding us. So if you are able to abstract your `if..else` to something it's easier to understand, why would you let it there? 
 
-## DSL
+## Domain Specific Language (DSL)
 So far we understand that high level languages were created to have a human-to-human better communication, what if even though we're not understanding ourselves very well, take database managing for instance: a developer can choose hundreds of different ways to query and change data. One solution for this is SQL, a Domain Specific Language created to manage relational databases, so we have specific syntax and operators for dealing with databases, but do we need a new language? Could we extend our general purpose language to have all the benefits SQL bring us? To answer that I'll give 2 examples:
 The first one is the LINQ, a C# .Net library that let you to write queries like 
 

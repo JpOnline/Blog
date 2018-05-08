@@ -60,6 +60,7 @@ If we are creating our own DSLs, what is left for general purpose languages? Wel
 
 We already have all the power we need since a long time ago, we need to stop to expect languages and frameworks to save us and make things easier, we need to take the responsibility, extending the language, creating libraries and frameworks to handle the specific problems of our domain.
 
+[What are your thoughts about it?](https://github.com/JpOnline/Blog/issues/3)
 
 Bibliography References
 - Wikipedia: Langage

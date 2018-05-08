@@ -26,6 +26,8 @@ The first is from James Coggins in the C++ Report:
 The second is from David Parnas
 > The answer is simple. It is because [O-O] has been tied to a variety of complex languages. Instead of teaching people that O-O is a type of design, and giving them design principles, people have taught that O-O is the use of a particular tool. We can write good or bad programs with any tool. Unless we teach people how to design, the languages matter very little. The result is that people do bad designs with these languages and get very little value from them. If the value is small, it won't catch on.
 
+[What are your thoughts about it?](https://github.com/JpOnline/Blog/issues/4)
+
 Bibliography References:
 - "No Silver BulletEssence and Accident in Software Engineering" by Frederick P. Brooks
 - "'No Silver Bullet' Refired" by Frederick P. Brooks

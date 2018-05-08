@@ -40,7 +40,7 @@ There are good ways to conduct simple and inexpensive experiments. And you exper
 
 For a good reference about the subject you can check the chapter "Experiment" in "Lean Startup" by Eric Ries. There he gives examples as the first online shoes store that experimented it's hypothesis by only taking pictures of shoes of a store and posting them in a blog to test of people would buy online. You can also check the winner of 2015 of the International Business Model Competition, [Kaitek Labs](https://www.youtube.com/watch?v=TR1keUm1mE8) didn't have finished their research yet, they didn't have the special bacteria they are developing, but they showed how everything else is going to work once they have it.
 
-[Write me a comment](https://github.com/JpOnline/Blog/issues/2)
+[What are your thoughts about it?](https://github.com/JpOnline/Blog/issues/2)
 
 Bibliography Reference:
 - "The Startup Owner's Manual" by Steve Blank

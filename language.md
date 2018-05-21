@@ -2,7 +2,7 @@
 
 Hey there, you might not want to read the whole text, you seem a pretty busy person to me, so I'll cut the chase, here is the conclusion and if you want to know more about how did I get there or the arguments behind it I invite you to read the following paragraphs.
 
-You don't have an excuse to produce something complicated, if someone else is not understanding you is because you're not explaining well enough. When developing a software you need to abstract down the complexity and make anyone that knows English and the domain of the software understand what is happening there, the reader doesn't need to know what is a `select`, `map`, `foreach` and not even `if..else` and languages like C# and Java don't help us to do it in a straight way.
+You don't have an excuse to produce something complicated, if someone else is not understanding you it is because you're not explaining well enough. When developing a software you need to abstract down the complexity and make anyone that knows English and the domain of the software understand what is happening there, the reader doesn't need to know what is a `select`, `map`, `foreach` and not even `if..else` and languages like C# and Java don't help us to do it in a straight way.
 
 ## What is a language?
 Language is the capacity to express an idea and communicate through a system of signs with a semantic and, most often a syntax common to a people who are of the same community or nation, the same geographical area, or the same cultural tradition. It's not static, new words and expressions are invented all the time.
@@ -35,7 +35,7 @@ The ultimate language that the computer "understands" is binary, but this one is
 
 ## Domain Specific Language (DSL)
 So far we understand that high level languages were created to have a human-to-human better communication, what if even though we're not understanding ourselves very well, take database managing for instance: a developer can choose hundreds of different ways to query and change data. One solution for this is SQL, a Domain Specific Language created to manage relational databases, so we have specific syntax and operators for dealing with databases, but do we need a new language? Could we extend our general purpose language to have all the benefits SQL bring us? To answer that I'll give 2 examples:
-The first one is the LINQ, a C# .Net library that let you to write queries like 
+The first one is the LINQ, a C# .Net library that let you to write queries like
 
 ```csharp
 users

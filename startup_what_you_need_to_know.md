@@ -12,7 +12,7 @@ A friend sent me a massage asking for my opinion in a document he and his team w
 
 I liked very much of the list, I think it's also in a good order. The document had the name  and hypothesis.
 
-Before talking specifically about the text, let's talk about what you need to know to grow a successful business. Do you know how to IPO your company? Do you know how to scale your business? How to break even your company? How to sell?  Create a product? Which problem are you solving? What are your client? What values are you creating?
+Let's talk about what you need to know to grow a successful business. Do you know how to IPO your company? Do you know how to scale your business? How to break even your company? How to sell?  Create a product? Which problem are you solving? Who are your client? What values are you creating?
 
 You may be thinking "but why do I need to know how to IPO my company now? Actually, what's IPO?" And this is exactly the point, you don't need to know it if you just started.
 
@@ -20,9 +20,9 @@ You may be thinking "but why do I need to know how to IPO my company now? Actual
 
 If, as my friend, you are starting your startup, you don't need to know the NPS of your product neither how to perform A/B tests, you don't even need to know how to do a selling funnel. So what do you need to know? Well, if you haven't sold your product for the first person, you still have to iterate on the first process, maybe you still have to keep iterating in the process if you have sold for some people, the type of business you are creating will say. Steve Blank, author of "The Startup Owner's Manual" said a lot of times "Get out of the Building!", and you can, probably should, do it before having any product. He's advocating for knowing your customer very well, and you can do it in very different ways, I prefer interviews.
 
-Still according to Steve Blank, Startups were repeating the same mistakes for a long time. Applying large companies' metrics and methodologies for their own. It's a mistake to write a Business Plan or to detail too much a plan that is going to change the first time you face a customer, you'll be losing your time (money), energy and becomingattached to a dead idea.
+Still according to Steve Blank, Startups were repeating the same mistakes for a long time. Applying large companies' metrics and methodologies for their own. It's a mistake to write a Business Plan or to detail too much a plan that is going to change the first time you face a customer, you'll be losing your time (money), energy and becoming attached to a dead idea.
 
-> A Startup is not a small version of a big company.
+> A Startup is not a small version of a big company.<sup>1</sup>
 
 What is a Startup though? A Startup is an organization in search mode. Its main output is knowledge about the domain. The goal is to define its Business Model. Please pay attention in the difference between Business Model and Business Plan. The first one is usually very light, done with post-its most of the time (see Alex Osterwalder "Value Proposition Design"), it's very easy to adapt and change over time. The second is very verbose and lengthy, it specify in details what and how the business is going to operate.
 
@@ -43,7 +43,8 @@ For a good reference about the subject you can check the chapter "Experiment" in
 [What are your thoughts about it?](https://github.com/JpOnline/Blog/issues/2)
 
 Bibliography Reference:
-- "The Startup Owner's Manual" by Steve Blank
-- "Lean Startup" by Eric Ries
-- "Value Proposition Design" by Alex Osterwalder
-- "Business Model Generation" by Alex Osterwalder
+
+1. "The Startup Owner's Manual" by Steve Blank
+2. "Lean Startup" by Eric Ries
+3. "Value Proposition Design" by Alex Osterwalder
+4. "Business Model Generation" by Alex Osterwalder

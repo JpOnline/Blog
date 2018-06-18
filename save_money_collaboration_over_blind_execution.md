@@ -5,9 +5,9 @@ I know you have a lot of work to do, don't worry, is not my intention to waste y
 Your boss might exert a power over you by the fear you have from loosing your job. There's a simple solution to it, just save 6 months of salary as an emergency fund and this is going to change the way you approach the job and your relationship with people.
 
 ## What is power?
-Power is not something you have, it's an influence someone can have over other. An easy example is the power by force, it is a domination in this case. To avoid the pain some follow the desire of who can inflict pain. To avoid the pain you avoid to let the powerful upset.
+Power is not something you have, it's an influence someone can have over other. An easy example is the power by force, it is a domination in this case. To avoid the pain some will please the desire of who can inflict pain. To avoid the pain you avoid to let the powerful upset.
 
-The same relationship happens inside a company, but instead of being afraid of pain we are afraid of unemployment, to get fired. And to avoid the unemployment we avoid to let our bosses upset.
+The same relationship happens inside a company, but instead of being afraid of pain we are afraid of unemployment, to get fired. And to avoid the unemployment we avoid letting our bosses upset.
 
 ## Employ: er vs ee
 

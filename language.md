@@ -56,7 +56,7 @@ The point is that we're capable of creating our own DSLs in our general purpose 
 
 > Every system is built from a DSL designed by the programmers to describe that system. The art of programming is, and has always been, the art of language design. [Clean Code: Functions, Robert Martin]
 
-If we are creating our own DSLs, what is left for general purpose languages? Well they need to help us in this job, they need to provide us tools to build abstractions and we create them to restrict the generality of the language. Some of the most used languages nowadays have several restrictions built-in, this is like asking a professional pilot to go slow, we're not children that can not handle the responsibility that comes with the power of general purpose languages, we can build our own restrictions when needed.
+If we are creating our own DSLs, what is left for general purpose languages? Well they need to help us in this job, they need to provide us tools to build abstractions and we create them to restrict the generality of the language. Some of the most used languages nowadays have several restrictions built-in, this is like asking a professional race-car driver to go slow, we're not children that can not handle the responsibility that comes with the power of general purpose languages, we can build our own restrictions when needed.
 
 We already have all the power we need since a long time ago, we need to stop to expect languages and frameworks to save us and make things easier, we need to take the responsibility, extending the language, creating libraries and frameworks to handle the specific problems of our domain.
 

@@ -22,3 +22,5 @@ Depois de ter baixado o arquivo, nós precisamos fazer upload desse arquivo no s
 <img src="/como_leio_livros_ebooks-imagens/fig4.jpeg">
 
 Pronto agora você pode usar o [aplicativo para android](https://play.google.com/store/apps/details?id=com.google.android.apps.books) ou o [aplicativo para iOS](https://apps.apple.com/us/app/google-play-books/id400989007) para ler qualquer ebook sem precisar ter um leitor digital como Kindle.
+
+[Comentários](https://github.com/JpOnline/Blog/issues/8)

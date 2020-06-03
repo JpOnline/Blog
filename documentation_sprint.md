@@ -19,6 +19,6 @@ I'll address the problem of **documentation in software** for 5 days, each day w
 # Day 1
 ## Goal
 - A tool that developers can run in a code base to **extract knowledge** or **facilitate code documentation**.
-- Have 100 people answering 100% for the question: "What's the probability for you to recommend this tool for a friend or coworker?"
+- Have 100 people answering 100% for the question: "What's the probability for you to recommend this tool for a friend or coworker?" The number is arbitrary but it's basically to find a niche with the [Net Promoter Score (NPS)](https://www.lightercapital.com/blog/net-promoter-score-how-to-calculate-nps/)
 
 [Comments and insights here](https://github.com/JpOnline/Blog/issues/9)

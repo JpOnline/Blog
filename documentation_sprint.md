@@ -16,9 +16,30 @@ I'll address the problem of **documentation in software** for 5 days, each day w
 4. Prototype
 5. Test
 
+## The Map (so far)
+Developer\
+-----⬇️-----\
+Access the Documentation Tool\
+-----⬇️-----\
+See a rich visualization of the\
+documentation that is in the code\
+-----⬇️-----\
+Edit the documentation\
+-----⬇️-----\
+Push changes with Git
+ 
+
 # Day 1
 ## Goal
 - A tool that developers can run in a code base to **extract knowledge** or **facilitate code documentation**.
 - Have 100 people answering 100% for the question: "What's the probability for you to recommend this tool for a friend or coworker?" The number is arbitrary but it's basically to find a niche with the [Net Promoter Score (NPS)](https://www.lightercapital.com/blog/net-promoter-score-how-to-calculate-nps/)
+
+## Questions- Diagrams are important for documentation?
+- Describe important terms used in code to define a Ubiquitous Language (in DDD style) is desirable?
+- Would be a good strategy to write code documentation near the code it’s related to so it would be versioned by git?
+- Is it interesting to create a label system for chunks of code? So we could filter to visualize specific chunks at times, e.g. to see tests with the code it tests, to join the html with the css that it affects, to see code grouped by functionality when convenient, etc.
+- The reason it’s hard to see an up to date documentation is because it’s far from the code?
+- What are the actual problems with tools for documentation? I have some experience with javadocs and I like the fact that it is done with the code and you can see it in a web page, but it’s not possible to edit from there and it focuses on too technical detail about a single piece of code, not how they are related. I also think it’s interesting the [Visual Studio Code Maps](https://docs.microsoft.com/en-us/visualstudio/modeling/map-dependencies-across-your-solutions?view=vs-2019) and [C4 with Structurizr](https://youtu.be/HmHOYkTVxIg?t=1411)
+
 
 [Comments and insights here](https://github.com/JpOnline/Blog/issues/9)

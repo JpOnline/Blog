@@ -20,3 +20,5 @@ I'll address the problem of **documentation in software** for 5 days, each day w
 ## Goal
 - A tool that developers can run in a code base to **extract knowledge** or **facilitate code documentation**.
 - Have 100 people answering 100% for the question: "What's the probability for you to recommend this tool for a friend or coworker?"
+
+[Comments and insights here](https://github.com/JpOnline/Blog/issues/9)

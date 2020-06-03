@@ -15,3 +15,8 @@ I'll address the problem of **documentation in software** for 5 days, each day w
 3. Decide the solution to prototype
 4. Prototype
 5. Test
+
+# Day 1
+## Goal
+- A tool that developers can run in a code base to extract knowledge or facilitate the understanding of the code.
+- To have a 100 people answer 100% for the question: "What's the probability it's for you to recommend this tool for a friend or coworker?"

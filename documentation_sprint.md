@@ -34,7 +34,8 @@ Push changes with Git
 - A tool that developers can run in a code base to **extract knowledge** or **facilitate code documentation**.
 - Have 100 people answering 100% for the question: "What's the probability for you to recommend this tool for a friend or coworker?" The number is arbitrary but it's basically to find a niche with the [Net Promoter Score (NPS)](https://www.lightercapital.com/blog/net-promoter-score-how-to-calculate-nps/)
 
-## Questions- Diagrams are important for documentation?
+## Questions
+- Diagrams are important for documentation?
 - Describe important terms used in code to define a Ubiquitous Language (in DDD style) is desirable?
 - Would be a good strategy to write code documentation near the code it’s related to so it would be versioned by git?
 - Is it interesting to create a label system for chunks of code? So we could filter to visualize specific chunks at times, e.g. to see tests with the code it tests, to join the html with the css that it affects, to see code grouped by functionality when convenient, etc.

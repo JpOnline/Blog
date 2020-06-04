@@ -4,6 +4,8 @@
 I can see several problems related to that, when I get to work in big projects that exists for a long time, I usually 
 spend a lot of energy to understand what is happening, what are the main elements, the domain entities. It might be because documentation gets unsynced with the code, but could be something else and what I'm going to do is to address this problem and produce a prototype by the end of the week. So if you have time, interest and energy, please contribute with insights. Thank you.
 
+When you think about it, you see that documentation is already a solution of a problem, the problem of understanding a code that you are starting to work with.
+
 ## Introduction
 My name is João Paulo, I love to code and create real solutions for real problems. I love the Clojure programming language and I'm using it for about 2 years to create Progressive Web Apps using Web Components as a Free Lancer.
 
@@ -17,9 +19,9 @@ I'll address the problem of **documentation in software** for 5 days, each day w
 5. Test
 
 ## The Map (so far)
-Developer\
+New Developer in unknown code\
 -----⬇️-----\
-Access the Documentation Tool\
+Extract relationships between chunks of code\
 -----⬇️-----\
 See a rich visualization of the\
 documentation that is in the code\
@@ -42,5 +44,12 @@ Push changes with Git
 - The reason it’s hard to see an up to date documentation is because it’s far from the code?
 - What are the actual problems with tools for documentation? I have some experience with javadocs and I like the fact that it is done with the code and you can see it in a web page, but it’s not possible to edit from there and it focuses on too technical detail about a single piece of code, not how they are related. I also think it’s interesting the [Visual Studio Code Maps](https://docs.microsoft.com/en-us/visualstudio/modeling/map-dependencies-across-your-solutions?view=vs-2019) and [C4 with Structurizr](https://youtu.be/HmHOYkTVxIg?t=1411)
 
+## HMW statements
+After some research and discussion with specialists I made some "How might we" statements, that's basically problems seen in an opportunity point of view.
+- How might we improve the code knowledge of someone new in the team?
+- How might we generate diagrams from the code?
+- How might we improve visibility of the code? (more than just coloring differently)
+- How might we highlight the domain entities?
+- How might we facilitate collaboration?
 
 [Comments and insights here](https://github.com/JpOnline/Blog/issues/9)

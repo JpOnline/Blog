@@ -21,15 +21,16 @@ I'll address the problem of **documentation in software** for 5 days, each day w
 ## The Map (so far)
 New Developer in unknown code\
 -----⬇️-----\
-Extract relationships between chunks of code\
+**Extract relationships between chunks of code** 👀\
 -----⬇️-----\
-See a rich visualization of the\
-documentation that is in the code\
+**See a rich visualization of the\
+documentation that is in the code** 👀\
 -----⬇️-----\
 Edit the documentation\
 -----⬇️-----\
 Push changes with Git
  
+I decided to focus in **Extract Relationships** and **Rich Visualization**. 
 
 # Day 1
 ## Goal
@@ -47,14 +48,13 @@ Push changes with Git
 ## HMW statements
 After some research and discussion with specialists I made some "How might we" statements, that's basically problems seen in an opportunity point of view.
 - How might we improve the code knowledge of someone new in the team?
-- How might we generate diagrams from the code?
-- How might we improve visibility of the code? (more than just coloring differently)
 - How might we highlight the domain entities?
-- How might we facilitate collaboration?
+- How might we improve visibility of the code? (more than just coloring differently)
+- How might we generate diagrams from the code?
 - How might we show diagrams with too much elements?
-- How might we improve searching?
-- How might we make it easy to edit?
 - How might we write documentation related to multiple chunks of code (hight level documentation)?
-
+- How might we make it easy to edit?
+- How might we improve searching?
+- How might we facilitate collaboration?
 
 [Comments and insights here](https://github.com/JpOnline/Blog/issues/9)

@@ -6,7 +6,7 @@ spend a lot of energy to understand what is happening, what are the main element
 
 When you think about it, you see that documentation is already a solution of a problem, the problem of understanding a code that you are starting to work with.
 
-## Introduction
+## Nice to meet you
 My name is João Paulo, I love to code and create real solutions for real problems. I love the Clojure programming language and I'm using it for about 2 years to create Progressive Web Apps using Web Components as a Free Lancer.
 
 ## The process

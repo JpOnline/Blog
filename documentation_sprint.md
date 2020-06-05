@@ -51,5 +51,10 @@ After some research and discussion with specialists I made some "How might we" s
 - How might we improve visibility of the code? (more than just coloring differently)
 - How might we highlight the domain entities?
 - How might we facilitate collaboration?
+- How might we show diagrams with too much elements?
+- How might we improve searching?
+- How might we make it easy to edit?
+- How might we write documentation related to multiple chunks of code (hight level documentation)?
+
 
 [Comments and insights here](https://github.com/JpOnline/Blog/issues/9)

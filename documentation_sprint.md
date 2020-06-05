@@ -94,13 +94,6 @@ Graphviz are used to show relationship between things.
 <br>
 <br>
 
-[Jupyter notebooks](https://jupyter.org/) and [Devcards](https://github.com/bhauman/devcards) are example of interactive code.
-<div>
-  <img src="/documentation_sprint-images/jupyter-notebook.png">
-</div>
-<br>
-<br>
-
 Devtools is a good interface to edit text and show visual change in real time.
 <div>
   <img src="/documentation_sprint-images/devtools.png" width=640>
@@ -126,6 +119,13 @@ Wiki rely on links between pages to connect concepts.
 <div>
   <img src="/documentation_sprint-images/wikipedia.png" width=80>
 </div>
+<br>
+
+[Jupyter notebooks](https://jupyter.org/) and [Devcards](https://github.com/bhauman/devcards) are example of interactive code.
+<div>
+  <img src="/documentation_sprint-images/jupyter-notebook.png">
+</div>
+<br>
 <br>
 
 [Comments and insights here](https://github.com/JpOnline/Blog/issues/9)

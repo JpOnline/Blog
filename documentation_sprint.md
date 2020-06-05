@@ -50,10 +50,16 @@ After some research and discussion with specialists I made some "How might we" s
 - How might we improve the code knowledge of someone new in the team?
 - How might we highlight the domain entities?
 - How might we improve visibility of the code? (more than just coloring differently)
+- HMW identify entry points?
+- HMW sync the visualization diagrams and the code?
 - How might we generate diagrams from the code?
 - How might we show diagrams with too much elements?
+- HMW curate automatic generated diagrams?
 - How might we write documentation related to multiple chunks of code (hight level documentation)?
+- HMW have nontrivial examples? (not only about units, but about the integration of them)
+- HMW crete intermediare description? (not only about units, but about the integration of them)
 - How might we make it easy to edit?
+- HMW quickly jump between the code, the documentation, the tests, the examples?
 - How might we improve searching?
 - How might we facilitate collaboration?
 

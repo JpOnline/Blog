@@ -67,8 +67,39 @@ After some research and discussion with specialists I made some "How might we" s
 ## References
 
 Labels like gmail are better than directories to structure information.
-<div style="text-align: center;">
+<div>
   <img src="/documentation_sprint-images/gmail-labels.png" width=580>
 </div>
+<br>
+
+[Clojuredocs.org](https://clojuredocs.org/clojure.core/when-let) has docstring, code examples, references to other functions, and comments in a single page.
+<div>
+  <img src="/documentation_sprint-images/clojuredocs.png" width=580>
+</div>
+<br>
+
+Javadocs use comments in code to generate a rich view of documentation.
+<div>
+  <img src="/documentation_sprint-images/javadocs.png">
+</div>
+<br>
+
+Graphviz are used to show relationship between things.
+<div>
+  <img src="/documentation_sprint-images/graphviz.png" width=580>
+</div>
+<br>
+
+[Jupyter notebooks](https://jupyter.org/) and [Devcards](https://github.com/bhauman/devcards) are example of interactive code.
+<div>
+  <img src="/documentation_sprint-images/jupyter-notebook.png">
+</div>
+<br>
+
+Devtools is a good interface to edit text and show visual change in real time.
+<div>
+  <img src="/documentation_sprint-images/devtools.png">
+</div>
+<br>
 
 [Comments and insights here](https://github.com/JpOnline/Blog/issues/9)

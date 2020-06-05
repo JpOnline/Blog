@@ -63,4 +63,12 @@ After some research and discussion with specialists I made some "How might we" s
 - How might we improve searching?
 - How might we facilitate collaboration?
 
+# Day 2
+## References
+
+Labels like gmail are better than directories to structure information.
+<div style="text-align: center;">
+  <img src="/documentation_sprint-images/gmail-labels.png" width=580>
+</div>
+
 [Comments and insights here](https://github.com/JpOnline/Blog/issues/9)

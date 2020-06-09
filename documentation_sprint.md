@@ -70,6 +70,7 @@ After some research and discussion with specialists I made some "How might we" s
 - HMW quickly jump between the code, the documentation, the tests, the examples?
 - How might we improve searching?
 - How might we facilitate collaboration?
+- How might we show which parts of the code is poor/well documented?
 
 # Day 2
 ## References

@@ -14,6 +14,12 @@ The tool will show you an interpretation, a **point of view**, a way to see the 
 > Cypher: You get used to it. I don’t even see the code. All I see is blonde, brunette, redhead.\
 > -- Matrix
 
+The problem I'm trying to mitigate is the difficulty of understanding pre-existing code, usually when you enter in a new team or just need to work in some part you are not used to. It might be inevitable spending more energy in these situations, but I thing the documentation plays a big role in how much energy you'll spend in the end.
+
+The documentation is simply information other people let to you about the code, if this information is up to date and right, it will definitely help you.
+
+There's a cost for maintaining documentation and if this cost is higher than the benefits you get from it, you will avoid wasting resources on it. So I'm trying to increase the value extracting some information automatically and decreasing the cost by making it clear what parts are out of date.
+
 ## Nice to meet you
 My name is João Paulo, I love to code and create real solutions for real problems. I love the Clojure programming language and I'm using it for about 2 years to create Progressive Web Apps using Web Components as a Free Lancer.
 
@@ -63,7 +69,7 @@ After some research and discussion with specialists I made some "How might we" s
 - How might we generate diagrams from the code?
 - How might we show diagrams with too much elements?
 - HMW curate automatic generated diagrams?
-- How might we write documentation related to multiple chunks of code (hight level documentation)?
+- How might we write documentation related to multiple chunks of code (high level documentation)?
 - HMW have nontrivial examples? (not only about units, but about the integration of them)
 - HMW crete intermediare description? (not only about units, but about the integration of them)
 - How might we make it easy to edit?
@@ -71,6 +77,8 @@ After some research and discussion with specialists I made some "How might we" s
 - How might we improve searching?
 - How might we facilitate collaboration?
 - How might we show which parts of the code is poor/well documented?
+- HMW show test coverage?
+- HMW show results of tests in the documentation?
 
 # Day 2
 ## References

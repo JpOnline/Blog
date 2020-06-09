@@ -6,6 +6,14 @@ spend a lot of energy to understand what is happening, what are the main element
 
 When you think about it, you see that documentation is already a solution of a problem, the problem of understanding a code that you are starting to work with.
 
+The code are the **facts**.\
+The comments are the **knowledge** imputed by **human**.\
+The tool will show you an interpretation, a **point of view**, a way to see the combination of **fact** and **human input**.
+
+> Neo: Do you always look at it encoded?\
+> Cypher: You get used to it. I don’t even see the code. All I see is blonde, brunette, redhead.\
+> -- Matrix
+
 ## Nice to meet you
 My name is João Paulo, I love to code and create real solutions for real problems. I love the Clojure programming language and I'm using it for about 2 years to create Progressive Web Apps using Web Components as a Free Lancer.
 
@@ -127,5 +135,17 @@ Wiki rely on links between pages to connect concepts.
 </div>
 <br>
 <br>
+
+## Solution Sketches
+Collapsable Diagrams
+<div>
+  <img src="/documentation_sprint-images/collapsable-diagrams-0.png">
+</div>
+<div>
+  <img src="/documentation_sprint-images/collapsable-diagrams-1.png">
+</div>
+<div>
+  <img src="/documentation_sprint-images/collapsable-diagrams-2.png">
+</div>
 
 [Comments and insights here](https://github.com/JpOnline/Blog/issues/9)

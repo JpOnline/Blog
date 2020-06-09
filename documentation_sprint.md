@@ -137,7 +137,7 @@ Wiki rely on links between pages to connect concepts.
 <br>
 
 ## Solution Sketches
-Collapsable Diagrams
+### Collapsable Diagrams
 <div>
   <img src="/documentation_sprint-images/collapsable-diagrams-0.png">
 </div>
@@ -147,5 +147,50 @@ Collapsable Diagrams
 <div>
   <img src="/documentation_sprint-images/collapsable-diagrams-2.png">
 </div>
+<br>
+
+### Links Everywhere
+<div>
+  <img src="/documentation_sprint-images/links-everywhere.png">
+</div>
+<br>
+
+### Some maybe useful ideas
+
+Documentation is synced with code.
+<div>  
+  <img src="/documentation_sprint-images/documention-is-synced-with-code.png" height=250>
+</div>
+<br>
+
+Can be used with any language.
+<div>
+  <img src="/documentation_sprint-images/language-agnostic.png" height=300>
+</div> 
+<br>
+
+A possible label organization.
+<div>
+  <img src="/documentation_sprint-images/possible_labels.png" height=300>
+</div>
+<br>
+
+Referencing Labels.
+<div>
+  <img src="/documentation_sprint-images/referencing-labels.png" height=250>
+</div>
+<br>
+
+Labels are defined in a configuration file.
+<div>
+  <img src="/documentation_sprint-images/in-looser-file.png" height=300>
+</div>
+<br>
+
+Showing markdown collapsable docstring in code.
+<div>
+  <img src="/documentation_sprint-images/showing-rich-collapsable-docstring-on-code.png" width=350>
+</div>
+<br>
 
 [Comments and insights here](https://github.com/JpOnline/Blog/issues/9)

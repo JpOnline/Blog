@@ -46,6 +46,16 @@ Push changes with Git
  
 I decided to focus in **Extract Relationships** and **Rich Visualization**. 
 
+## Features (so far)
+The code is tightly coupled with execution, sometimes it's difficult or dangerous to change things. Think about how hard it would be for you to restructure how your directories are organized. The tool creates a label system independent of directories, so it's easy and harmless to rename and move things around.
+
+- Using labels to define multiple level of documentation.
+- Run a basic static analysis to identify the function and where are they called to generate a diagram where you can filter elements you want to show/hide.
+- Run this analysis in any language.
+- Warn dev about missing code referenced in doc, maybe it was deleted or it changed the name.
+- Show usage examples of the code (tests) close to the code it tests.
+- Glossary (like DDD ubiquitous language)
+
 # Day 1
 ## Goal
 - A tool that developers can run in a code base to **extract knowledge** or **facilitate code documentation**.

@@ -222,17 +222,17 @@ The methodology says I should create a story board, but with the sketches I have
 - Dev search for "Documentation Tool" on Google.
 - Dev finds Looset and get it from npm (or maybe some other package manager..).
 - Dev runs it in his project "looset draw-map-shape/", it will start a server and serve the page in localhost:5667.
-- * Dev opens the page and see the Main panel with a diagram, the label panel and the properties panel.
+- \* Dev opens the page and see the Main panel with a diagram, the label panel and the properties panel.
 - Add new labels by edditing the labels properties of Code Blocks (CB) (it's going to appear a "+ create Main Api label" similar to tags in Google Keep)
 - Hide CBs diagrams with no labels
-- * Select a CB and click in the Page tab
+- \* Select a CB and click in the Page tab
 - Fill the properties **examples**, **docstring** and **see-also**
 - Click in the example link to go to its page (TODO: explain that the example properties is automatically synced in both CBs but not see-also)
 - Deselect CB then the main panel will get back to white (empty).
-- * Click in the Code tab (the main panel is still white) choose a CB that's shown with its docstring (with a option to collapse).
+- \* Click in the Code tab (the main panel is still white) choose a CB that's shown with its docstring (with a option to collapse).
 - Click in the Main Api label to show all CBs of that label.
 - Click in the reset button to deselect all CBs and get back to the empty white view.
-- * Click in Glossary tab (I'll think about this part later)
+- \* Click in Glossary tab (I'll think about this part later)
 - Run `git pull` from the terminal (a test was deleted) and see that the page is updated with a warning (!) where that code was referenced.
 - Put a label inside another label and fill **docstring** and **see-also** (html?)
 - Dev checks `git diff` in terminal, `commit` and `push` the changes.
@@ -241,4 +241,5 @@ The methodology says I should create a story board, but with the sketches I have
 You can verify that I'm not following exactly one day after another, unfortunately I have to split my attentions to other projects. But I'll update it with the prototype soon.
 
 <br>
+
 [Comments and insights here](https://github.com/JpOnline/Blog/issues/9)

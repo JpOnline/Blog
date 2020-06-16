@@ -238,7 +238,9 @@ The methodology says I should create a story board, but with the sketches I have
 - Dev checks `git diff` in terminal, `commit` and `push` the changes.
 
 # Day 4
-You can verify that I'm not following exactly one day after another, unfortunately I have to split my attentions to other projects. But I'll update it with the prototype soon.
+Prototype in video.
+
+[![Looset prototype](http://img.youtube.com/vi/Dz0Dav1qRK4/0.jpg)](http://www.youtube.com/watch?v=Dz0Dav1qRK4 "Prototype")
 
 <br>
 

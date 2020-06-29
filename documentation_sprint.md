@@ -242,6 +242,13 @@ Prototype in video.
 
 [![Looset prototype](http://img.youtube.com/vi/Dz0Dav1qRK4/0.jpg)](http://www.youtube.com/watch?v=Dz0Dav1qRK4 "Prototype")
 
+# Day 5
+It actually took 24 days for me to get here, it's not the intention of the methodology, but I had to adapt a lot of things from it.
+
+Here is a video where you can have a good idea how it's to work with Looset tools and please, answer to the 2 questions so I can validate it and see if it's worth keep working on it or not. https://forms.gle/5vbfc54MRXcBodKc7
+
+[![Looset Prototype, Code Documentation and Visualization](http://img.youtube.com/vi/ktVpk1UukKA/0.jpg)](http://www.youtube.com/watch?v=ktVpk1UukKA "Looset Prototype - Code Documentation and Visualization")
+
 <br>
 
 [Comments and insights here](https://github.com/JpOnline/Blog/issues/9)

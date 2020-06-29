@@ -1,4 +1,4 @@
-## I now declare it is opened the documentation week.
+## The documentation week.
 **The goal is to have a prototype by the end of the week**
 
 I can see several problems related to that, when I get to work in big projects that exists for a long time, I usually 

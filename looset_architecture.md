@@ -52,5 +52,3 @@ We created a campaign to both validate the interest and also to be able to inves
 [A video demo of the tools](https://youtu.be/x5mZcIVAPcg)
 
 [The Kickstarter Campaign](https://www.kickstarter.com/projects/looset-team/looset?ref=1i0fmm)
-
-<iframe src="https://www.kickstarter.com/projects/looset-team/looset/widget/card.html?v=2" width="430" height="510" frameborder="0" scrolling="no"></iframe>

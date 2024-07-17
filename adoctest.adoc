@@ -2,6 +2,8 @@
 :toc: 
 :toc-title: summary
 
+Unfortunately, Github https://github.com/github/markup/issues/1095[doesn't support] Asciidoctor's include macro
+
 == Title
 A bold statement!footnote:disclaimer[Opinions are my own.] 
 

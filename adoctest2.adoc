@@ -1,0 +1,9 @@
+== Some new title
+
+SOme new content
+
+include::adoctest.adoc[]
+
+=== Another title
+
+Some other content

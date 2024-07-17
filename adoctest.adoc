@@ -1,3 +1,20 @@
-== Title
 
+:toc: 
+:toc-title: summary
+
+== Title
+A bold statement!footnote:disclaimer[Opinions are my own.] 
+
+== title 2
+
+Another outrageous statement.footnote:disclaimer[] 
 Test
+
+== title 3
+The hail-and-rainbow protocol can be initiated at five levels:
+
+. doublefootnote:[The double hail-and-rainbow level makes my toes tingle.]  
+. tertiary
+. supernumerary
+. supermassive
+. apocalyptic

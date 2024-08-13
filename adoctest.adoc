@@ -20,3 +20,12 @@ The hail-and-rainbow protocol can be initiated at five levels:
 . supernumerary
 . supermassive
 . apocalyptic
+
+```mermaid
+flowchart TD
+    A[Christmas] -->|Get money| B(https://google.com.br)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+```

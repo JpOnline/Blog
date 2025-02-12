@@ -1,6 +1,11 @@
 Some link https://github.com/JpOnline/Blog/edit/JpOnline-patch-1/test.md
 
+Footnotes work[^1] in markdown
+
+[^1]: Can I put a [link](https://github.com/JpOnline/Blog/edit/JpOnline-patch-1/test.md) here?
+
 Another url [Some text that can be hidden if it's empty](book-delta-function://some-function/maybe-namespaced?some-param=value)
+
 
 ```mermaid
 flowchart TD
